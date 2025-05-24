@@ -1,3 +1,5 @@
+Slides: https://cursos.frogamesformacion.com/pages/slides?item=fundamentos-de-machine-learning
+
 # Fundamentos Matemáticos del Machine Learning
 
 Este repositorio contiene el código que acompaña al plan de estudios *Fundamentos Matemáticos deMachine Learning Foundations* de Juan Gabriel Gomila, que proporciona una visión completa de todas las materias (matemáticas, estadística e informática) que subyacen a los enfoques contemporáneos del aprendizaje automático, incluido el aprendizaje profundo y otras técnicas de inteligencia artificial.
